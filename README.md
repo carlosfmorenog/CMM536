@@ -13,5 +13,5 @@ Week to week plan:
     Topic 6 – Metrics for Performance Evaluation
     Topic 7 – Neural Networks
     Topic 8 – Convolutional Neural Networks
-    Topic 9 – Natural Language Processing
+    Topic 9 – Transfer Learning
     Topic 10 – Revision & Coursework Support
