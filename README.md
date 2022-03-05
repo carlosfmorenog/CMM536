@@ -2,6 +2,8 @@
 
 Advanced Data Science (RGU MSc Course)
 
+A proposed solution for coursework part 1 (and part of part 2) can be found [here](https://github.com/carlosfmorenog/CMM536_CW_2022)
+
 Week to week plan:
 
     Topic 1 – Introduction to the Module & Jupyter Notebook
