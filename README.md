@@ -2,7 +2,7 @@
 
 Advanced Data Science (RGU MSc Course)
 
-A proposed solution for coursework part 1 (and part of part 2) can be found [here](https://github.com/carlosfmorenog/CMM536_CW_2022)
+A proposed solution for coursework part 1 (and part of part 2) OF 2022 can be found [here](https://github.com/carlosfmorenog/CMM536_CW_2022)
 
 Week to week plan:
 
