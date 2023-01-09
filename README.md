@@ -2,7 +2,8 @@
 
 Advanced Data Science (RGU MSc Course)
 
-A proposed solution for coursework part 1 (and part of part 2) of 2022 can be found [here](https://github.com/carlosfmorenog/CMM536_CW_2022)
+    A tutorial on how to load images from a GitHub repo to a Notebook can be found [here](https://github.com/carlosfmorenog/CMM536_Data_Loading_Tutorial)
+    A proposed solution for coursework part 1 (and part of part 2) of 2022 can be found [here](https://github.com/carlosfmorenog/CMM536_CW_2022)
 
 Week to week plan:
 
