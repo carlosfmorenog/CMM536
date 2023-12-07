@@ -15,4 +15,4 @@ Week to week plan:
     Topic 6 – Metrics for Performance Evaluation
     Topic 7 – Neural Networks
     Topic 8 – Convolutional Neural Networks
-    Topic 9 - Advanced Topics (guest lecture by Prof. Eyad Elyan, not available in this repo)
+    Topic 9 - GPT
