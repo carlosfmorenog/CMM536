@@ -7,12 +7,14 @@ Advanced Data Science (RGU MSc Course)
 
 Week to week plan:
 
-    Topic 1 – Introduction to the Module & Jupyter Notebook
-    Topic 2 – Introduction to Python & Coursework Clarification
-    Topic 3 – Images as Data
-    Topic 4 – Feature Extraction
-    Topic 5 – Methods to Address Imbalance
-    Topic 6 – Metrics for Performance Evaluation
-    Topic 7 – Neural Networks
-    Topic 8 – Convolutional Neural Networks
-    Topic 9 - GPT
+    -------
+
+    TOPIC 1: Introduction to the Module & Jupyter Notebook
+    TOPIC 2: Introduction to Python & CW Clarification
+    TOPIC 3:  Images as Data, Image Loading & ML
+    TOPIC 4: Feature Extraction
+    TOPIC 5: Methods to Address Imbalance
+    TOPIC 6: Metrics for Performance Evaluation
+    TOPIC 7: Neural Networks
+    TOPIC 8: Convolutional Neural Networks
+    TOPIC 9: GPT
