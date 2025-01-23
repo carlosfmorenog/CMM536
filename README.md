@@ -7,8 +7,6 @@ Advanced Data Science (RGU MSc Course)
 
 Week to week plan:
 
-    -------
-
     TOPIC 1: Introduction to the Module & Jupyter Notebook
     TOPIC 2: Introduction to Python & CW Clarification
     TOPIC 3: Images as Data, Image Loading & ML
