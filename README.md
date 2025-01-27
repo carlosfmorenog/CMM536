@@ -9,8 +9,8 @@ Week to week plan:
 
     TOPIC 1: Introduction to the Module & Jupyter Notebook
     TOPIC 2: Introduction to Python & CW Clarification
-    TOPIC 3: Images as Data, Image Loading & ML
-    TOPIC 4: Feature Extraction
+    TOPIC 3: Images as Data & Intro to ML
+    TOPIC 4: Image Loading & Feature Extraction
     TOPIC 5: Methods to Address Imbalance
     TOPIC 6: Metrics for Performance Evaluation
     TOPIC 7: Neural Networks
