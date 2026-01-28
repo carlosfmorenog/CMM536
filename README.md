@@ -2,7 +2,7 @@
 
 Advanced Data Science (RGU MSc Course)
 
-* A tutorial on how to load images from a GitHub repo to a Notebook can be found [here](https://github.com/carlosfmorenog/CMM536_Data_Loading_Tutorial)
+* A tutorial on how to load images from a GitHub repo to a Jupyter Notebook can be found [here](https://github.com/carlosfmorenog/CMM536_Data_Loading_Tutorial)
 
 Week to week plan:
 
