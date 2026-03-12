@@ -1,6 +1,8 @@
 # CMM536
 
-Advanced Data Science (RGU MSc Course)
+Advanced Data Science (RGU Module)
+
+* More info: https://rgu.akarisoftware.com/index.cfm/page/module/moduleId/11382/deliveryperiodid/971
 
 * A tutorial on how to load images from a GitHub repo to a Jupyter Notebook can be found [here](https://github.com/carlosfmorenog/CMM536_Data_Loading_Tutorial)
 
